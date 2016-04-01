@@ -5,5 +5,5 @@ My attempt to create a Box with LAMP stack already installed upon doing a vagran
 
 #TODO:
 
-*Add MySQL installation script.
-*Add PHP installation script.
+* Create scripts for different cases.
+* Have script create an html folder for apache projects.
