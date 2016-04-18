@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+#don't forget to change permissions to execute!
+#!/bin/bash
 
 apt-get update
 echo "Installing Apache"
